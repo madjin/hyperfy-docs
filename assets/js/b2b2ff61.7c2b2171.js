@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhyperfy_docs=self.webpackChunkhyperfy_docs||[]).push([[8736],{3064:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/hyperfy-docs/blog/tags/hello","allTagsPath":"/hyperfy-docs/blog/tags","count":2,"unlisted":false}')}}]);
